@@ -19,11 +19,24 @@
  //  document.write (i);
  //  document.write ('<br>');
 //}
-var i = 0;
-do {
+//var i = 0;
+//do {
  
-   document.write (i);
-   document.write ('<br>');
-   i++;
-} 
-   while (i<=10)
+//   document.write (i);
+ //  document.write ('<br>');
+ //  i++;
+//} 
+//   while (i<=10)
+ 
+ //var arr =[1,2,3];
+// arr[10]=10;
+ 
+// for ( var i=0; i< arr.lenght;) {
+//   document.write (arr [i]);
+//   document.write ('<br>');
+// }
+ var students = {
+     vasya:20,
+     petya:23,
+ }
+ document.write(students ['vasyl']);
